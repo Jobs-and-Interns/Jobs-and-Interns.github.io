@@ -116,3 +116,17 @@ You are free to use, modify, and distribute it with attribution.
 ### ❤️ Made with passion by the Jobs and Interns Team
 
 > Empowering the next generation of Sri Lankan professionals.
+
+---
+
+## 🎨 Editing styles
+
+The page uses Tailwind CSS, prebuilt into `assets/css/tailwind.css` (no CDN at runtime).
+After adding or changing Tailwind classes in `index.html`, rebuild the stylesheet:
+
+```bash
+npm install
+npm run build:css
+```
+
+Commit the updated `assets/css/tailwind.css` along with your HTML changes.
