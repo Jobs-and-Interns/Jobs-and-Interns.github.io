@@ -17,7 +17,7 @@ Our mission is simple — **empower Sri Lankan undergraduates** by connecting th
 We’re proud to maintain a **trusted, community-driven platform** with:
 - 🎓 Over **12,000+** active student members  
 - 🏢 **50+ partner companies** across industries  
-- 🌍 **59,000+ social media followers** nationwide  
+- 🌍 **91,000+ WhatsApp channel followers** & **34,000+** status views
 - 💼 100% **verified** paid job & internship listings  
 
 ---
@@ -116,3 +116,17 @@ You are free to use, modify, and distribute it with attribution.
 ### ❤️ Made with passion by the Jobs and Interns Team
 
 > Empowering the next generation of Sri Lankan professionals.
+
+---
+
+## 🎨 Editing styles
+
+The page uses Tailwind CSS, prebuilt into `assets/css/tailwind.css` (no CDN at runtime).
+After adding or changing Tailwind classes in `index.html`, rebuild the stylesheet:
+
+```bash
+npm install
+npm run build:css
+```
+
+Commit the updated `assets/css/tailwind.css` along with your HTML changes.

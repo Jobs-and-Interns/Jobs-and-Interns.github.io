@@ -1,0 +1,10 @@
+{
+  "name": "jobs-and-interns-site",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i src/tailwind.css -o assets/css/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.17"
+  }
+}
