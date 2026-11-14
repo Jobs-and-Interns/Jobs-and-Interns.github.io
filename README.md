@@ -17,7 +17,7 @@ Our mission is simple — **empower Sri Lankan undergraduates** by connecting th
 We’re proud to maintain a **trusted, community-driven platform** with:
 - 🎓 Over **12,000+** active student members  
 - 🏢 **50+ partner companies** across industries  
-- 🌍 **59,000+ social media followers** nationwide  
+- 🌍 **91,000+ WhatsApp channel followers** & **34,000+** status views
 - 💼 100% **verified** paid job & internship listings  
 
 ---
